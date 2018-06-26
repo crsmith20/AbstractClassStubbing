@@ -7,6 +7,6 @@ public abstract class AbstractClazz {
 		
 		// does not matter what this class does, since its being mocked
 		
-		return "In AbstractClazz";
+		return null;
 	}
 }
